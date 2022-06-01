@@ -4,3 +4,4 @@ sencond update
 thirth update
 for update
 崔哥牛啊
+测试SSH免密登录
